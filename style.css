@@ -1,0 +1,24 @@
+
+.txt-area{
+    display: block;
+    width: 50%;
+    height: 5vh;
+    margin-left: 100px;
+    margin-right:  100px;
+}
+.center{
+    display: block;
+    margin-left: 850px;
+    margin-right: auto;
+}
+.btn-search{
+    margin-left: 500px;
+}
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 30%;
+    padding: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+}
